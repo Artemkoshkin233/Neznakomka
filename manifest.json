@@ -4,7 +4,7 @@
   "description": "Психологический триллер. Переписка с незнакомкой, которая знает слишком много.",
   "start_url": "./index.html",
   "scope": "./",
-  "display": "standalone",
+  "display": "fullscreen",
   "orientation": "portrait",
   "background_color": "#02010a",
   "theme_color": "#02010a",
