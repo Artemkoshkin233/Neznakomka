@@ -1,0 +1,37 @@
+{
+  "name": "НЕЗНАКОМКА",
+  "short_name": "Незнакомка",
+  "description": "Психологический триллер. Переписка с незнакомкой, которая знает слишком много.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#02010a",
+  "theme_color": "#02010a",
+  "id": "neznakomka-game-2024",
+  "lang": "ru",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Главный экран"
+    }
+  ]
+}
